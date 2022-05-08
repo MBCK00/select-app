@@ -1,0 +1,12 @@
+.flex-gap-10 {
+    gap: 10px;
+}
+
+.container form > select {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+option:disabled {
+    display: none;
+}
